@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Amin Sifat</h1>
-<h2 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h2 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
 - 🔭 I’m currently working on [Online Shop API,ReactJs](https://github.com/NurAminSifatTanha/shop_management_system_api)
 
